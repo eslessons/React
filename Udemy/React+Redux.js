@@ -1,9 +1,8 @@
-/* Udemy - 
-React + Redux (2019)
+/* Udemy - React + Redux (2019)
 
 1. Introduction
 Start
-
+Finish
 
 2. ECMAScript 2019
 3. React Basics
