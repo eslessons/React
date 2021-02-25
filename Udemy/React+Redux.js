@@ -17,6 +17,9 @@ Start
 Finish
 
 5. Finishing Todo App
+Start
+
+
 6. Working with Server
 7. Components lifecycle
 8. React Patterns
