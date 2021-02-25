@@ -5,6 +5,9 @@ Start
 Finish
 
 2. ECMAScript 2019
+Start
+Finish
+
 3. React Basics
 4. Components State and Events Handling
 5. Finishing Todo App
