@@ -9,6 +9,9 @@ Start
 Finish
 
 3. React Basics
+Start
+Finish
+
 4. Components State and Events Handling
 5. Finishing Todo App
 6. Working with Server
