@@ -13,6 +13,9 @@ Start
 Finish
 
 4. Components State and Events Handling
+Start
+Finish
+
 5. Finishing Todo App
 6. Working with Server
 7. Components lifecycle
