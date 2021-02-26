@@ -25,6 +25,9 @@ Start
 Finish
 
 7. Components lifecycle
+Start
+
+
 8. React Patterns
 9. React Hooks
 10. React Router
