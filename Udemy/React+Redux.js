@@ -30,7 +30,7 @@ Finish
 
 8. React Patterns
 Start
-
+Finish
 
 9. React Hooks
 10. React Router
