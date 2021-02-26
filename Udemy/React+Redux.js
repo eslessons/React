@@ -29,6 +29,9 @@ Start
 Finish
 
 8. React Patterns
+Start
+
+
 9. React Hooks
 10. React Router
 11. Redux
