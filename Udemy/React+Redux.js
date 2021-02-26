@@ -26,7 +26,7 @@ Finish
 
 7. Components lifecycle
 Start
-
+Finish
 
 8. React Patterns
 9. React Hooks
