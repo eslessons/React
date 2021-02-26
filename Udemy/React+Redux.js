@@ -21,6 +21,9 @@ Start
 Finish
 
 6. Working with Server
+Start
+
+
 7. Components lifecycle
 8. React Patterns
 9. React Hooks
