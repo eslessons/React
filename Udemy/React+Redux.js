@@ -22,7 +22,7 @@ Finish
 
 6. Working with Server
 Start
-
+Finish
 
 7. Components lifecycle
 8. React Patterns
