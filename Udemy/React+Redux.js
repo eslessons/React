@@ -38,6 +38,7 @@ Finish
 
 10. React Router
 Start
+Finish
 
 11. Redux
 12. Creating Redux Application
