@@ -41,6 +41,9 @@ Start
 Finish
 
 11. Redux
+Start
+
+
 12. Creating Redux Application
 13. Building React Application - Babel
 14. Building React Application - Webpack
