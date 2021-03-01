@@ -42,7 +42,7 @@ Finish
 
 11. Redux
 Start
-
+Finish
 
 12. Creating Redux Application
 13. Building React Application - Babel
