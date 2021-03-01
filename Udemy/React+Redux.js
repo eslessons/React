@@ -37,6 +37,8 @@ Start
 Finish
 
 10. React Router
+Start
+
 11. Redux
 12. Creating Redux Application
 13. Building React Application - Babel
