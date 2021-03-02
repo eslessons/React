@@ -6,6 +6,7 @@ Finish
 
 02. Intro
 Start
+Finish
 
 03. Environment Setup
 04. React Component Approaches
