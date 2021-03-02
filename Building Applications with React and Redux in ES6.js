@@ -2,12 +2,9 @@
 
 01. Course Overview
 Start
-
+Finish
 
 02. Intro
-
-
-
 03. Environment Setup
 04. React Component Approaches
 05. Initial App Structure
