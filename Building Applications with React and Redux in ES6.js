@@ -5,6 +5,8 @@ Start
 Finish
 
 02. Intro
+Start
+
 03. Environment Setup
 04. React Component Approaches
 05. Initial App Structure
