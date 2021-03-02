@@ -50,7 +50,7 @@ Finish
 
 13. Building React Application - Babel
 Start
-
+Finish
 
 14. Building React Application - Webpack
 
