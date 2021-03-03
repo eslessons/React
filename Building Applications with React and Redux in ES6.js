@@ -13,6 +13,8 @@ Start
 Finish
 
 04. React Component Approaches
+Start
+
 05. Initial App Structure
 06. Intro to Redux
 07. Actions, Stores, and Reducers
