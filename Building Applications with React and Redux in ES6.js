@@ -25,6 +25,9 @@ Start
 Finish
 
 07. Actions, Stores, and Reducers
+Start
+Finish
+
 08. Connecting React to Redux
 09. Redux Flow
 10. Async in Redux
