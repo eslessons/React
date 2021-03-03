@@ -41,6 +41,9 @@ Start
 Finish
 
 11. Async Writes in Redux
+Start
+Finish
+
 12. Async Status and Error Handling
 13. Testing React
 14. Testing Redux
