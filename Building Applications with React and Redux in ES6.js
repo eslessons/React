@@ -21,6 +21,9 @@ Start
 Finish
 
 06. Intro to Redux
+Start
+Finish
+
 07. Actions, Stores, and Reducers
 08. Connecting React to Redux
 09. Redux Flow
