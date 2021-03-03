@@ -33,6 +33,9 @@ Start
 Finish
 
 09. Redux Flow
+Start
+Finish
+
 10. Async in Redux
 11. Async Writes in Redux
 12. Async Status and Error Handling
