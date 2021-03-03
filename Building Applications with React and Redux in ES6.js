@@ -29,6 +29,9 @@ Start
 Finish
 
 08. Connecting React to Redux
+Start
+Finish
+
 09. Redux Flow
 10. Async in Redux
 11. Async Writes in Redux
