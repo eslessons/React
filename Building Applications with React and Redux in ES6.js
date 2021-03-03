@@ -9,6 +9,8 @@ Start
 Finish
 
 03. Environment Setup
+Start
+
 04. React Component Approaches
 05. Initial App Structure
 06. Intro to Redux
