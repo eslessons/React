@@ -49,6 +49,9 @@ Start
 Finish
 
 13. Testing React
+Start
+Finish
+
 14. Testing Redux
 15. Production Builds
 
