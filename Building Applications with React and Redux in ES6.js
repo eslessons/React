@@ -45,6 +45,8 @@ Start
 Finish
 
 12. Async Status and Error Handling
+Start
+
 13. Testing React
 14. Testing Redux
 15. Production Builds
