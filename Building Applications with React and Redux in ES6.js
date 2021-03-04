@@ -53,6 +53,9 @@ Start
 Finish
 
 14. Testing Redux
+Start
+Finish
+
 15. Production Builds
 
 */
