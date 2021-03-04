@@ -46,6 +46,7 @@ Finish
 
 12. Async Status and Error Handling
 Start
+Finish
 
 13. Testing React
 14. Testing Redux
