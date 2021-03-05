@@ -5,6 +5,9 @@ Start
 Finish
 
 02 - ES6 Refresher 
+Start
+Finish
+
 03 - Components
 04 - Composing Components
 05 - Pagination, Filtering, and Sorting
