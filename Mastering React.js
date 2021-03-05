@@ -13,6 +13,9 @@ Start
 Finish
 
 04 - Composing Components
+Start
+Finish
+
 05 - Pagination, Filtering, and Sorting
 06 - Routing
 07 - Forms
