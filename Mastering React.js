@@ -2,7 +2,7 @@
 
 01 - Getting Started
 Start
-
+Finish
 
 02 - ES6 Refresher 
 03 - Components
