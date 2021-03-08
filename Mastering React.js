@@ -17,6 +17,8 @@ Start
 Finish
 
 05 - Pagination, Filtering, and Sorting
+Start
+
 06 - Routing
 07 - Forms
 08 - Calling Backend Services
