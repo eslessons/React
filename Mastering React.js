@@ -25,6 +25,9 @@ Start
 Finish
 
 07 - Forms
+Start
+Finish
+
 08 - Calling Backend Services
 09 - Authentication and Authorization
 10 - Deployment
