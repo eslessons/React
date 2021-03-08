@@ -18,6 +18,7 @@ Finish
 
 05 - Pagination, Filtering, and Sorting
 Start
+Finis
 
 06 - Routing
 07 - Forms
