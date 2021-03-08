@@ -33,6 +33,9 @@ Start
 Finish
 
 09 - Authentication and Authorization
+Start
+Finish
+
 10 - Deployment
 11 - Advanced Topics
 
