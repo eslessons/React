@@ -17,6 +17,9 @@ Start
 Finish
 
 04. Paper Rock Scissors
+Start
+Finish
+
 05. Moving Link Across a _canvas_
 06. Infinite Image Gallery
 07. Trivia Game
