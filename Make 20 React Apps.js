@@ -5,6 +5,9 @@ Start
 Finish
 
 01. Pomodoro Timer
+Start
+Finish
+
 02. Markdown Editor
 03. Browser Tabs and Routing
 04. Paper Rock Scissors
