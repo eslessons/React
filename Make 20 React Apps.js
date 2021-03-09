@@ -21,6 +21,9 @@ Start
 Finish
 
 05. Moving Link Across a _canvas_
+Start
+Finish
+
 06. Infinite Image Gallery
 07. Trivia Game
 08. Authentication
