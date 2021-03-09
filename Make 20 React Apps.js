@@ -13,6 +13,9 @@ Start
 Finish
 
 03. Browser Tabs and Routing
+Start
+Finish
+
 04. Paper Rock Scissors
 05. Moving Link Across a _canvas_
 06. Infinite Image Gallery
