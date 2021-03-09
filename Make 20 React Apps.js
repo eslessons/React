@@ -9,6 +9,9 @@ Start
 Finish
 
 02. Markdown Editor
+Start
+Finish
+
 03. Browser Tabs and Routing
 04. Paper Rock Scissors
 05. Moving Link Across a _canvas_
