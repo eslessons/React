@@ -37,6 +37,9 @@ Start
 Finish
 
 09. Web Speech and Timers
+Start
+Finish
+
 10. Calendar Picker
 11. Chat Box
 12. Multi-Step Form
