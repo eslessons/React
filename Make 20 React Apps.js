@@ -29,6 +29,9 @@ Start
 Finish
 
 07. Trivia Game
+Start
+Finish
+
 08. Authentication
 09. Web Speech and Timers
 10. Calendar Picker
