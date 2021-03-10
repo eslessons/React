@@ -33,6 +33,9 @@ Start
 Finish
 
 08. Authentication
+Start
+Finish
+
 09. Web Speech and Timers
 10. Calendar Picker
 11. Chat Box
