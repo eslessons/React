@@ -41,6 +41,9 @@ Start
 Finish
 
 10. Calendar Picker
+Start
+Finish
+
 11. Chat Box
 12. Multi-Step Form
 13. Memory Matching Game
