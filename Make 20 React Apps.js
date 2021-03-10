@@ -25,6 +25,9 @@ Start
 Finish
 
 06. Infinite Image Gallery
+Start
+
+
 07. Trivia Game
 08. Authentication
 09. Web Speech and Timers
