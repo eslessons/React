@@ -26,7 +26,7 @@ Finish
 
 06. Infinite Image Gallery
 Start
-
+Finish
 
 07. Trivia Game
 08. Authentication
