@@ -57,6 +57,9 @@ Start
 Finish
 
 14. Drag and Drop Math Card
+Start
+Finish
+
 15. Browser
 16. Real-Time Search
 17. Charting the Weather
