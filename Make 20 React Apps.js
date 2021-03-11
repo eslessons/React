@@ -46,7 +46,7 @@ Finish
 
 11. Chat Box
 Start
-
+Finish
 
 12. Multi-Step Form
 13. Memory Matching Game
