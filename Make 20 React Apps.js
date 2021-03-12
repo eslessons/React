@@ -77,5 +77,7 @@ Start
 Finish
 
 19. Typing Tester
+Start
+Finish
 
 */
