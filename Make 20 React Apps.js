@@ -73,6 +73,9 @@ Start
 Finish
 
 18. Shopping Cart w_ Context + Reducer
+Start
+Finish
+
 19. Typing Tester
 
 */
