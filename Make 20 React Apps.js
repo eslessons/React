@@ -65,6 +65,8 @@ Start
 Finish
 
 16. Real-Time Search
+Start
+
 17. Charting the Weather
 18. Shopping Cart w_ Context + Reducer
 19. Typing Tester
