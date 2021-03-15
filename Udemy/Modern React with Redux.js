@@ -7,6 +7,9 @@ Start
 Finish
 
 02. Building Content with JSX
+Start
+Finish
+
 03. Communicating with Props
 04. Structuring Apps with Class-Based Components
 05. State in React Components
