@@ -15,6 +15,9 @@ Start
 Finish
 
 04. Structuring Apps with Class-Based Components
+Start
+Finish
+
 05. State in React Components
 06. Understanding Lifecycle Methods
 07. Handling User Input with Forms and Events
