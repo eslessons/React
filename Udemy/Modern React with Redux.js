@@ -4,6 +4,7 @@ Modern React with Redux
 
 01. Let's Dive In!
 Start
+Finish
 
 02. Building Content with JSX
 03. Communicating with Props
