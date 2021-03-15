@@ -19,6 +19,9 @@ Start
 Finish
 
 05. State in React Components
+Start
+Finish
+
 06. Understanding Lifecycle Methods
 07. Handling User Input with Forms and Events
 08. Making API Requests with React
