@@ -11,6 +11,9 @@ Start
 Finish
 
 03. Communicating with Props
+Start
+Finish
+
 04. Structuring Apps with Class-Based Components
 05. State in React Components
 06. Understanding Lifecycle Methods
