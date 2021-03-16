@@ -31,6 +31,9 @@ Start
 Finish
 
 08. Making API Requests with React
+Start
+Finish
+
 09. Building Lists of Records
 10. Using Ref's for DOM Access
 11. Let's Test Your React Mastery!
