@@ -35,6 +35,9 @@ Start
 Finish
 
 09. Building Lists of Records
+Start
+Finish
+
 10. Using Ref's for DOM Access
 11. Let's Test Your React Mastery!
 12. Understanding Hooks in React
