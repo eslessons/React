@@ -48,7 +48,7 @@ Finish
 
 12. Understanding Hooks in React
 Start
-
+Finish
 
 13. Navigation From Scratch
 14. Hooks in Practice
