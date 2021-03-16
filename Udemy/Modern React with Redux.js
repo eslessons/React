@@ -39,6 +39,9 @@ Start
 Finish
 
 10. Using Ref's for DOM Access
+Start
+Finish
+
 11. Let's Test Your React Mastery!
 12. Understanding Hooks in React
 13. Navigation From Scratch
