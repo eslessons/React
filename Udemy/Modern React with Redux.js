@@ -43,6 +43,9 @@ Start
 Finish
 
 11. Let's Test Your React Mastery!
+Start
+Finish
+
 12. Understanding Hooks in React
 13. Navigation From Scratch
 14. Hooks in Practice
