@@ -28,7 +28,7 @@ Finish
 
 07. Handling User Input with Forms and Events
 Start
-
+Finish
 
 08. Making API Requests with React
 09. Building Lists of Records
