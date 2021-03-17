@@ -55,6 +55,9 @@ Start
 Finish
 
 14. Hooks in Practice
+Start
+Finish
+
 15. Deploying a React App
 16. On We Go...To Redux!
 17. Integrating React with Redux
