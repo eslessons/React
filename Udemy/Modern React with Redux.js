@@ -51,6 +51,9 @@ Start
 Finish
 
 13. Navigation From Scratch
+Start
+
+
 14. Hooks in Practice
 15. Deploying a React App
 16. On We Go...To Redux!
