@@ -71,6 +71,9 @@ Start
 Finish
 
 18. Async Actions with Redux Thunk
+Start
+Finish
+
 19. Redux Store Design
 20. Navigation with React Router
 21. Handling Authentication with React
