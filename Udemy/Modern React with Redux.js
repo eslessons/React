@@ -63,6 +63,9 @@ Start
 Finish
 
 16. On We Go...To Redux!
+Start
+Finish
+
 17. Integrating React with Redux
 18. Async Actions with Redux Thunk
 19. Redux Store Design
