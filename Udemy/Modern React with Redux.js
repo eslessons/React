@@ -59,6 +59,9 @@ Start
 Finish
 
 15. Deploying a React App
+Start
+Finish
+
 16. On We Go...To Redux!
 17. Integrating React with Redux
 18. Async Actions with Redux Thunk
