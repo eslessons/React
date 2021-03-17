@@ -52,7 +52,7 @@ Finish
 
 13. Navigation From Scratch
 Start
-
+Finish
 
 14. Hooks in Practice
 15. Deploying a React App
