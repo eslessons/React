@@ -67,6 +67,9 @@ Start
 Finish
 
 17. Integrating React with Redux
+Start
+Finish
+
 18. Async Actions with Redux Thunk
 19. Redux Store Design
 20. Navigation with React Router
