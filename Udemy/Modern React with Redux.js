@@ -83,6 +83,9 @@ Start
 Finish
 
 21. Handling Authentication with React
+Start
+
+
 22. Redux Dev Tools
 23. Handling Forms with Redux Form
 24. REST-Based React Apps
