@@ -76,6 +76,7 @@ Finish
 
 19. Redux Store Design
 Start
+Finish
 
 20. Navigation with React Router
 21. Handling Authentication with React
