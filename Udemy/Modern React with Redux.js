@@ -88,6 +88,7 @@ Finish
 
 22. Redux Dev Tools
 Start
+Finish
 
 23. Handling Forms with Redux Form
 24. REST-Based React Apps
