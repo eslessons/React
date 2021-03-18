@@ -87,6 +87,8 @@ Start
 Finish
 
 22. Redux Dev Tools
+Start
+
 23. Handling Forms with Redux Form
 24. REST-Based React Apps
 25. Using React Portals
