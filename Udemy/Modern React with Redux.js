@@ -80,7 +80,7 @@ Finish
 
 20. Navigation with React Router
 Start
-
+Finish
 
 21. Handling Authentication with React
 22. Redux Dev Tools
