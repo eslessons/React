@@ -79,6 +79,9 @@ Start
 Finish
 
 20. Navigation with React Router
+Start
+
+
 21. Handling Authentication with React
 22. Redux Dev Tools
 23. Handling Forms with Redux Form
