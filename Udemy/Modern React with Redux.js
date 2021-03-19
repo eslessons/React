@@ -96,6 +96,7 @@ Finish
 
 24. REST-Based React Apps
 Start
+Finish
 
 25. Using React Portals
 26. Implementing Streaming Video
