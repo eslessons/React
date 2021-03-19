@@ -100,7 +100,7 @@ Finish
 
 25. Using React Portals
 Start
-
+Finish
 
 26. Implementing Streaming Video
 27. The Context System with React
