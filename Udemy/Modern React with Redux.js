@@ -119,12 +119,14 @@ Start
 Finish
 
 30. Ajax Requests with React
+Start
+
+
 31. Modeling Application State
 32. Managing App State with Redux
 33. Intermediate Redux_ Middleware
 34. React Router + Redux Form v6
 35. Bonus Topics
 36. React Router + Redux Form v4
-37. Extras
 
 */
