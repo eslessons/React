@@ -115,6 +115,8 @@ Start
 Finish
 
 29. Working with Older Versions of React
+Start
+
 30. Ajax Requests with React
 31. Modeling Application State
 32. Managing App State with Redux
