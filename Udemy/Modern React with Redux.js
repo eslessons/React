@@ -112,6 +112,7 @@ Finish
 
 28. Replacing Redux with Context
 Start
+Finish
 
 29. Working with Older Versions of React
 30. Ajax Requests with React
