@@ -120,7 +120,7 @@ Finish
 
 30. Ajax Requests with React
 Start
-
+FInish
 
 31. Modeling Application State
 32. Managing App State with Redux
