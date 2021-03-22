@@ -136,7 +136,7 @@ Finish
 
 34. React Router + Redux Form v6
 Start
-
+Finish
 
 35. Bonus Topics
 36. React Router + Redux Form v4
