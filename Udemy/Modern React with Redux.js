@@ -132,6 +132,7 @@ Finish
 
 33. Intermediate Redux_ Middleware
 Start
+Finish
 
 34. React Router + Redux Form v6
 
