@@ -128,7 +128,7 @@ Finish
 
 32. Managing App State with Redux
 Start
-
+Finish
 
 33. Intermediate Redux_ Middleware
 34. React Router + Redux Form v6
