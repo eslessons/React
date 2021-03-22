@@ -124,7 +124,7 @@ Finish
 
 31. Modeling Application State
 Start
-
+Finish
 
 32. Managing App State with Redux
 33. Intermediate Redux_ Middleware
