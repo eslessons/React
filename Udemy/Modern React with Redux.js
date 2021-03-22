@@ -131,6 +131,8 @@ Start
 Finish
 
 33. Intermediate Redux_ Middleware
+Start
+
 34. React Router + Redux Form v6
 
 35. Bonus Topics
