@@ -144,6 +144,6 @@ Finish
 
 36. React Router + Redux Form v4
 Start
-
+Finish
 
 */
