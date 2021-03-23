@@ -140,7 +140,7 @@ Finish
 
 35. Bonus Topics
 Start
-
+Finish
 
 36. React Router + Redux Form v4
 
