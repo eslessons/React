@@ -3,7 +3,7 @@ The Complete React Developer Course
 
 1. Welcome
 Start
-
+Finish
 
 2. Setting up Your Environment 
 3. Hello React
