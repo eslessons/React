@@ -10,6 +10,9 @@ Start
 Finish
 
 3. Hello React
+Start
+
+
 4. React Components
 5. Stateless Functional Components 
 6. Webpack 
