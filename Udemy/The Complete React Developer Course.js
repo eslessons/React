@@ -14,6 +14,9 @@ Start
 Finish
 
 4. React Components
+Start
+
+
 5. Stateless Functional Components 
 6. Webpack 
 7. Using a Third-Party Component 
