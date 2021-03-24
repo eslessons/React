@@ -7,7 +7,7 @@ Finish
 
 2. Setting up Your Environment 
 Start
-
+Finish
 
 3. Hello React
 4. React Components
