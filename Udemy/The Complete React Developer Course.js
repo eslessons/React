@@ -11,7 +11,7 @@ Finish
 
 3. Hello React
 Start
-
+Finish
 
 4. React Components
 5. Stateless Functional Components 
