@@ -22,6 +22,9 @@ Start
 Finish
 
 6. Webpack 
+Start
+
+
 7. Using a Third-Party Component 
 8. Styling React 
 9. React-Router 
