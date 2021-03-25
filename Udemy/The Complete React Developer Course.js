@@ -31,6 +31,7 @@ Finish
 
 8. Styling React 
 Start
+Finish
 
 9. React-Router 
 10. Redux 
