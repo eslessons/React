@@ -26,6 +26,9 @@ Start
 Finish
 
 7. Using a Third-Party Component 
+Start
+
+
 8. Styling React 
 9. React-Router 
 10. Redux 
