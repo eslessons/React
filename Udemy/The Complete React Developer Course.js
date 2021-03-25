@@ -30,6 +30,8 @@ Start
 Finish
 
 8. Styling React 
+Start
+
 9. React-Router 
 10. Redux 
 11. React with Redux 
