@@ -19,7 +19,7 @@ Finish
 
 5. Stateless Functional Components
 Start
-
+Finish
 
 6. Webpack 
 7. Using a Third-Party Component 
