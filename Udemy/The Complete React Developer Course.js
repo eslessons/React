@@ -23,7 +23,7 @@ Finish
 
 6. Webpack 
 Start
-
+Finish
 
 7. Using a Third-Party Component 
 8. Styling React 
