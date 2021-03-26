@@ -38,6 +38,8 @@ Start
 Finish
 
 10. Redux
+Start
+
 11. React with Redux
 12. Testing Your Application
 13. Deploying Your Apps
