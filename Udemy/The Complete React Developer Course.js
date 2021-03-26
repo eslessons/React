@@ -39,6 +39,7 @@ Finish
 
 10. Redux
 Start
+Finish
 
 11. React with Redux
 12. Testing Your Application
