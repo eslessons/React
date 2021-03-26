@@ -43,7 +43,7 @@ Finish
 
 11. React with Redux
 Start
-
+Finish
 
 12. Testing Your Application
 13. Deploying Your Apps
