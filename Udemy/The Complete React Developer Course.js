@@ -34,6 +34,9 @@ Start
 Finish
 
 9. React-Router 
+Start
+
+
 10. Redux 
 11. React with Redux 
 12. Testing Your Application 
