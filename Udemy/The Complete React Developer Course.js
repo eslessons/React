@@ -46,6 +46,9 @@ Start
 Finish
 
 12. Testing Your Application
+Start
+
+
 13. Deploying Your Apps
 14. Firebase 101
 15. Firebase with Redux
