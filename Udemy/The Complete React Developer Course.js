@@ -47,7 +47,7 @@ Finish
 
 12. Testing Your Application
 Start
-
+Finish
 
 13. Deploying Your Apps
 14. Firebase 101
