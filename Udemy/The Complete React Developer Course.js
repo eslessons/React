@@ -50,6 +50,8 @@ Start
 Finish
 
 13. Deploying Your Apps
+Start
+
 14. Firebase 101
 15. Firebase with Redux
 16. Firebase Authentication
