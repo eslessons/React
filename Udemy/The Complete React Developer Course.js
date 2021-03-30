@@ -62,6 +62,9 @@ Start
 Finish
 
 16. Firebase Authentication
+Start
+
+
 17. Styling Budget App
 18. What Now
 19. Hooks, Context, Fragments, and More
