@@ -63,7 +63,7 @@ Finish
 
 16. Firebase Authentication
 Start
-
+Finish
 
 17. Styling Budget App
 18. What Now
