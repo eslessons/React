@@ -58,6 +58,9 @@ Start
 Finish
 
 15. Firebase with Redux
+Start
+
+
 16. Firebase Authentication
 17. Styling Budget App
 18. What Now
