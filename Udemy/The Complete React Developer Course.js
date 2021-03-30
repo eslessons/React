@@ -67,7 +67,7 @@ Finish
 
 17. Styling Budget App
 Start
-
+Finish
 
 18. What Now
 19. Hooks, Context, Fragments, and More
