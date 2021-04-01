@@ -15,7 +15,7 @@ Finish
 
 04. Master Project Setting Up E-commerce Project 
 Start
-
+Finish
 
 05. Master Project React Router and Routing 
 06. Master Project Forms + Components 
