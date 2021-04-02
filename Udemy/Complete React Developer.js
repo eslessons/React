@@ -35,7 +35,7 @@ Finish
 
 09. Master Project Session Storage + Persistence 
 Start
-
+Finish
 
 10. Master Project Redux 2 
 11. Master Project Advanced Routing 
