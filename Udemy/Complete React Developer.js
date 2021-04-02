@@ -23,7 +23,7 @@ Finish
 
 06. Master Project Forms + Components 
 Start
-
+Finish
 
 07. Master Project Firebase + User Authentication 
 08. Master Project Redux 1 
