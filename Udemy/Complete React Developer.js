@@ -26,6 +26,9 @@ Start
 Finish
 
 07. Master Project Firebase + User Authentication 
+Start
+Finish
+
 08. Master Project Redux 1 
 09. Master Project Session Storage + Persistence 
 10. Master Project Redux 2 
