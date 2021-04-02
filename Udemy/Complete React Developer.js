@@ -27,9 +27,12 @@ Finish
 
 07. Master Project Firebase + User Authentication 
 Start
-Finish 
+Finish
 
 08. Master Project Redux 1 
+Start
+
+
 09. Master Project Session Storage + Persistence 
 10. Master Project Redux 2 
 11. Master Project Advanced Routing 
