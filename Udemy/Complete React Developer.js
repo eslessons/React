@@ -31,7 +31,7 @@ Finish
 
 08. Master Project Redux 1 
 Start
-
+Finish
 
 09. Master Project Session Storage + Persistence 
 10. Master Project Redux 2 
