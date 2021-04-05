@@ -51,7 +51,7 @@ Finish
 
 13. Master Project Stripe Payments Part 1 
 Start
-
+Finish
 
 14. Master Project Deploying To Production 
 15. Master Project CSS in JS - styled-components 
