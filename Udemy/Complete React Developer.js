@@ -55,7 +55,7 @@ Finish
 
 14. Master Project Deploying To Production 
 Start
-
+Finish
 
 15. Master Project CSS in JS - styled-components 
 16. Master Project Advanced Redux + Firebase 
