@@ -43,7 +43,8 @@ Finish
 
 11. Master Project Advanced Routing 
 Start
-Finish
+Finish 
+
 
 12. Master Project State Normalization 
 13. Master Project Stripe Payments Part 1 
