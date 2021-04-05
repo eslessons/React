@@ -45,8 +45,10 @@ Finish
 Start
 Finish 
 
+12. Master Project State Normalization
+Start
 
-12. Master Project State Normalization 
+
 13. Master Project Stripe Payments Part 1 
 14. Master Project Deploying To Production 
 15. Master Project CSS in JS - styled-components 
