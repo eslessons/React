@@ -50,6 +50,9 @@ Start
 Finish
 
 13. Master Project Stripe Payments Part 1 
+Start
+
+
 14. Master Project Deploying To Production 
 15. Master Project CSS in JS - styled-components 
 16. Master Project Advanced Redux + Firebase 
