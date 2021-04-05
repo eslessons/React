@@ -38,6 +38,9 @@ Start
 Finish
 
 10. Master Project Redux 2 
+Start
+
+
 11. Master Project Advanced Routing 
 12. Master Project State Normalization 
 13. Master Project Stripe Payments Part 1 
