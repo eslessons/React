@@ -54,6 +54,9 @@ Start
 Finish
 
 14. Master Project Deploying To Production 
+Start
+
+
 15. Master Project CSS in JS - styled-components 
 16. Master Project Advanced Redux + Firebase 
 17. Master Project HOC Patterns 
