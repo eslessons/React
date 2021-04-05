@@ -39,7 +39,7 @@ Finish
 
 10. Master Project Redux 2 
 Start
-
+Finish
 
 11. Master Project Advanced Routing 
 12. Master Project State Normalization 
