@@ -47,7 +47,7 @@ Finish
 
 12. Master Project State Normalization
 Start
-
+Finish
 
 13. Master Project Stripe Payments Part 1 
 14. Master Project Deploying To Production 
