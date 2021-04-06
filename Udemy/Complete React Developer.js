@@ -66,6 +66,9 @@ Start
 Finish
 
 17. Master Project HOC Patterns 
+Start
+
+
 18. Master Project  Asynchronous Redux 
 19. Master Project Container Pattern 
 20. Master Project Redux-Saga 
