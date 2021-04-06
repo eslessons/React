@@ -61,7 +61,10 @@ Finish
 Start
 Finish
 
-16. Master Project Advanced Redux + Firebase 
+16. Master Project Advanced Redux + Firebase
+Start
+
+
 17. Master Project HOC Patterns 
 18. Master Project  Asynchronous Redux 
 19. Master Project Container Pattern 
