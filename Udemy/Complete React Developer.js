@@ -75,7 +75,7 @@ Finish
 
 19. Master Project Container Pattern 
 Start
-
+Finish
 
 20. Master Project Redux-Saga 
 21. Master Project React Hooks 
