@@ -59,7 +59,7 @@ Finish
 
 15. Master Project CSS in JS - styled-components 
 Start
-
+Finish
 
 16. Master Project Advanced Redux + Firebase 
 17. Master Project HOC Patterns 
