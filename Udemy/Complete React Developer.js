@@ -74,6 +74,9 @@ Start
 Finish 
 
 19. Master Project Container Pattern 
+Start
+
+
 20. Master Project Redux-Saga 
 21. Master Project React Hooks 
 22. Master Project Stripe Payments Part 2 - Backend 
