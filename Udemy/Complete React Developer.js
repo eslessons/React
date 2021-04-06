@@ -71,7 +71,7 @@ Finish
 
 18. Master Project  Asynchronous Redux 
 Start
-Finish
+Finish 
 
 19. Master Project Container Pattern 
 20. Master Project Redux-Saga 
