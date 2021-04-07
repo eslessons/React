@@ -87,7 +87,7 @@ Finish
 
 22. Master Project Stripe Payments Part 2 - Backend 
 Start
-
+Finish
 
 23. Master Project Context API 
 24. Master Project GraphQL + Apollo 
