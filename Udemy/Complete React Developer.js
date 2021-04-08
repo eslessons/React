@@ -91,7 +91,7 @@ Finish
 
 23. Master Project Context API 
 Start
-
+Finish
 
 24. Master Project GraphQL + Apollo 
 25. Master Project Mobile Support 
