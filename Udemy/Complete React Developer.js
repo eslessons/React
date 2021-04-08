@@ -93,7 +93,10 @@ Finish
 Start
 Finish
 
-24. Master Project GraphQL + Apollo 
+24. Master Project GraphQL + Apollo
+Start
+
+
 25. Master Project Mobile Support 
 26. Master Project React Performance 
 27. React Interview Questions + Advice 
