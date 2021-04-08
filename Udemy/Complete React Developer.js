@@ -99,7 +99,7 @@ Finish
 
 25. Master Project Mobile Support 
 Start
-
+Finish
 
 26. Master Project React Performance 
 27. React Interview Questions + Advice 
