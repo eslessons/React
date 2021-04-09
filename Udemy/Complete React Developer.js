@@ -103,7 +103,7 @@ Finish
 
 26. Master Project React Performance 
 Start
-
+Finish
 
 27. React Interview Questions + Advice 
 28. Bonus Progressive Web App 
