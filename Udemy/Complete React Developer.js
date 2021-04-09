@@ -102,6 +102,9 @@ Start
 Finish
 
 26. Master Project React Performance 
+Start
+
+
 27. React Interview Questions + Advice 
 28. Bonus Progressive Web App 
 29. Bonus Firebase Security 
