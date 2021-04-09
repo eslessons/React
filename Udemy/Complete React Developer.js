@@ -110,6 +110,9 @@ Start
 Finish
 
 28. Bonus Progressive Web App 
+Start
+
+
 29. Bonus Firebase Security 
 30. Bonus Testing 
 31. Bonus Webpack + Babel 
