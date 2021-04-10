@@ -111,7 +111,7 @@ Finish
 
 28. Bonus Progressive Web App 
 Start
-
+Finish
 
 29. Bonus Firebase Security 
 30. Bonus Testing 
