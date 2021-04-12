@@ -115,7 +115,7 @@ Finish
 
 29. Bonus Firebase Security 
 Start
-
+Finish
 
 30. Bonus Testing 
 31. Bonus Webpack + Babel 
