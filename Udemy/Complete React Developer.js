@@ -122,6 +122,9 @@ Start
 Finish
 
 31. Bonus Webpack + Babel 
+Start
+
+
 32. Bonus Build a GatsbyJS Blog 
 33. Appendix 1 Key Developer Concepts 
 34. Open Source Projects 
