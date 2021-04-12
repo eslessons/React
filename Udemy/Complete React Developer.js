@@ -114,6 +114,9 @@ Start
 Finish
 
 29. Bonus Firebase Security 
+Start
+
+
 30. Bonus Testing 
 31. Bonus Webpack + Babel 
 32. Bonus Build a GatsbyJS Blog 
