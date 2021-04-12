@@ -119,7 +119,7 @@ Finish
 
 30. Bonus Testing 
 Start
-
+Finish
 
 31. Bonus Webpack + Babel 
 32. Bonus Build a GatsbyJS Blog 
