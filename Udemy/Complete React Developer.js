@@ -118,6 +118,9 @@ Start
 Finish
 
 30. Bonus Testing 
+Start
+
+
 31. Bonus Webpack + Babel 
 32. Bonus Build a GatsbyJS Blog 
 33. Appendix 1 Key Developer Concepts 
