@@ -130,6 +130,9 @@ Start
 Finish
 
 33. Appendix 1 Key Developer Concepts 
+Start
+
+
 34. Open Source Projects 
 35. AMA + Bonus 
 36. Extras
