@@ -126,6 +126,9 @@ Start
 Finish
 
 32. Bonus Build a GatsbyJS Blog 
+Start
+
+
 33. Appendix 1 Key Developer Concepts 
 34. Open Source Projects 
 35. AMA + Bonus 
