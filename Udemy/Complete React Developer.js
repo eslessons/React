@@ -138,4 +138,7 @@ Start
 Finish
 
 35. AMA + Bonus 
+Start
+
+
 36. Extras
