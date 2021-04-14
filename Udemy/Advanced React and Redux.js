@@ -7,7 +7,7 @@ Finish
 
 02. Testing
 Start
-
+Finish
 
 03. Higher Order Components
 04. MIddlewares with Redux
