@@ -6,6 +6,9 @@ Start
 Finish
 
 02. Testing
+Start
+
+
 03. Higher Order Components
 04. MIddlewares with Redux
 05. Server Setup - Authentication
