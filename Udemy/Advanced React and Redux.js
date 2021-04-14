@@ -11,7 +11,7 @@ Finish
 
 03. Higher Order Components
 Start
-
+Finish
 
 04. MIddlewares with Redux
 05. Server Setup - Authentication
