@@ -10,6 +10,9 @@ Start
 Finish
 
 03. Higher Order Components
+Start
+
+
 04. MIddlewares with Redux
 05. Server Setup - Authentication
 06. Client Side Auth
