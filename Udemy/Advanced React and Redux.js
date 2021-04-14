@@ -15,7 +15,7 @@ Finish
 
 04. MIddlewares with Redux
 Start
-
+Finish
 
 05. Server Setup - Authentication
 06. Client Side Auth
