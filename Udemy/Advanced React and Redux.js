@@ -14,6 +14,9 @@ Start
 Finish
 
 04. MIddlewares with Redux
+Start
+
+
 05. Server Setup - Authentication
 06. Client Side Auth
 07. Testing With React v14
