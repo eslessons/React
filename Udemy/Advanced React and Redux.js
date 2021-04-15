@@ -18,6 +18,9 @@ Start
 Finish
 
 05. Server Setup - Authentication
+Start
+
+
 06. Client Side Auth
 07. Testing With React v14
 08. Test Environment Setup with React v14
