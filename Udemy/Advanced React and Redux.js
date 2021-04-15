@@ -19,7 +19,7 @@ Finish
 
 05. Server Setup - Authentication
 Start
-
+Finish
 
 06. Client Side Auth
 07. Testing With React v14
