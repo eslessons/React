@@ -30,6 +30,9 @@ Start
 Finish
 
 08. Test Environment Setup with React v14
+Start
+
+
 09. Higher Order Components with React v14
 10. Middleware with React v14
 11. Client Side Authentication with React v14
