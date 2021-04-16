@@ -35,7 +35,7 @@ Finish
 
 09. Higher Order Components with React v14
 Start
-
+Finish
 
 10. Middleware with React v14
 11. Client Side Authentication with React v14
