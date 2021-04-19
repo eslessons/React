@@ -38,6 +38,9 @@ Start
 Finish
 
 10. Middleware with React v14
+Start
+
+
 11. Client Side Authentication with React v14
 
 */
