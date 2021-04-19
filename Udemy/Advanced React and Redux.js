@@ -42,5 +42,6 @@ Start
 Finish
 
 11. Client Side Authentication with React v14
+Start
 
 */
