@@ -6,6 +6,9 @@ Start
 Finish
 
 2. React Fundamentals
+Start
+
+
 3. React Hooks
 4. Advanced React Hooks
 5. Advanced React Patterns
