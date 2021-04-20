@@ -7,7 +7,7 @@ Finish
 
 2. React Fundamentals
 Start
-
+Finish
 
 3. React Hooks
 4. Advanced React Hooks
