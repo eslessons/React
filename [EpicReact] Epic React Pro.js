@@ -15,7 +15,7 @@ Finish
 
 4. Advanced React Hooks
 Start
-
+Finish
 
 5. Advanced React Patterns
 6. React Performance
