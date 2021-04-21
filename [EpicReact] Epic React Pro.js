@@ -19,7 +19,7 @@ Finish
 
 5. Advanced React Patterns
 Start
-
+Finish
 
 6. React Performance
 7. Testing React App
