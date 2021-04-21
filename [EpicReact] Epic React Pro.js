@@ -18,6 +18,9 @@ Start
 Finish
 
 5. Advanced React Patterns
+Start
+
+
 6. React Performance
 7. Testing React App
 8. React Suspense
