@@ -26,6 +26,9 @@ Start
 Finish
 
 7. Testing React App
+Start
+
+
 8. React Suspense
 9. Build an Epic React App
 
