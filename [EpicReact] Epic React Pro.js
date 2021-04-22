@@ -23,7 +23,7 @@ Finish
 
 6. React Performance
 Start
-
+Finish
 
 7. Testing React App
 8. React Suspense
