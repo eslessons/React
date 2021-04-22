@@ -31,7 +31,7 @@ Finish
 
 8. React Suspense
 Start
-
+Finish
 
 9. Build an Epic React App
 
